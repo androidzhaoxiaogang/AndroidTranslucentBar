@@ -10,9 +10,9 @@ Android 4.4平台开始支持的一种效果，称为 [Translucent System Bars](
 
 ![Demo效果图](http://d.hiphotos.baidu.com/image/pic/item/79f0f736afc3793149100337edc4b74543a911b7.jpg)
 
-## 实现文档
+## 实现原理解析
 
-请移步到:[Translucent System Bars的应用](/Doc/UI/Translucent System Bars的应用.md)
+请移步到:[Translucent System Bars的应用](https://github.com/D-clock/Doc/blob/master/UI/Translucent%20System%20Bars%E7%9A%84%E5%BA%94%E7%94%A8.md)
 
 
 
